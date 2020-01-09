@@ -1,0 +1,1 @@
+# 자동으로 config.js에 post 경로 추가하기
